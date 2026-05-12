@@ -124,7 +124,7 @@ El proyecto permite:
 # 📂 Estructura del proyecto
 
 ```bash
-react-media-streaming/
+AppMultimedia/
 │
 ├── public/
 ├── src/
@@ -147,7 +147,7 @@ react-media-streaming/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-user/react-media-streaming.git
+git clone https://github.com/isairey/AppMultimedia.git
 ```
 
 ---
@@ -155,7 +155,7 @@ git clone https://github.com/your-user/react-media-streaming.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd react-media-streaming
+cd AppMultimedia
 ```
 
 ---
@@ -284,7 +284,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## React Media Streaming Developers
+## Isai Reyes React Media Streaming Developers
 
 Desarrolladores enfocados en experiencias multimedia modernas y plataformas web rápidas.
 
